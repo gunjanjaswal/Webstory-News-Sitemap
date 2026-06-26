@@ -2,6 +2,8 @@
 
 [![WordPress Compatible](https://img.shields.io/badge/WordPress-6.0%2B-blue.svg)](https://wordpress.org/)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![Author](https://img.shields.io/badge/by-Gunjan%20Jaswal-9333ea)](https://www.gunjanjaswal.me)
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/gunjanjaswal)
 
 A lightweight WordPress plugin that generates a Google News sitemap specifically for Web Stories. This plugin creates a dedicated XML sitemap that follows Google News guidelines for Web Stories, making them more discoverable in Google News and Google Discover.
 
@@ -89,3 +91,7 @@ Developed by Gunjan Jaswal (hello@gunjanjaswal.me)
 ## Support
 
 For support, please open an issue on the GitHub repository or contact the developer directly.
+
+If this plugin helps your Web Stories get discovered, consider supporting development on Ko-fi:
+
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gunjanjaswal)
